@@ -4,7 +4,7 @@ Programação para internet com HTML5 e CSS3
 
 Professor - Professor Rafael Galleani
 
-Objetivos :
+Objetivos conquistados :
 
 1 Criada página HTML5.
 
